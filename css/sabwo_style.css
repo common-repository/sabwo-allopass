@@ -1,0 +1,43 @@
+.abn_error {
+	color: black;
+	background-color: #fbe3e4;
+	font-size: 1.0em;
+	font-family: Verdana;
+	width: 650px;
+	text-align: center;
+	border:1px solid #8a1f11;		
+	margin-top: 1%;
+	}
+.abn_succes {
+	color: black;
+	background-color: #99FF66;
+	font-size: 1.0em;
+	font-family: Verdana;
+	width: 650px;
+	text-align: center;
+	border:1px solid #669900;		
+	margin-top: 1%;
+}
+.abn_config_cadre {	
+       color: black;	
+       background-color: #F0F0F0;		
+       width: 650px;		
+       padding-top:5px;
+       padding-left:5px;
+}
+input[type=text]{
+      border:1px solid black;
+      background-color:#F8F8F8;
+ }
+input[type=radio] {
+      margin-right:50px;
+      background-color:transparent;
+      border:none;
+ }
+select, option {
+      background-color:#F8F8F8;
+ }  
+.loading {	
+      position: fixed;	
+      margin-top: 1%;	
+}
